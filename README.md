@@ -1,5 +1,6 @@
 # datamine_python_script
-using python to interact with datamine studioRM
+Using python to interact with datamine studioRM
+
 The initial connection is established using;
 
 import win32com.client
